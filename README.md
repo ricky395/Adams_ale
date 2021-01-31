@@ -1,0 +1,15 @@
+#Adams Ale
+
+Proyecto realizado a principios de 2018
+
+
+Controles PC/Mando consola:
+
+WASD/Stick Izquierdo --> movimiento del personaje.
+E/A --> interactuar con un objeto.
+C/X --> agacharse.
+Shift izquierdo/B --> el personaje correrá mientras se mantenga pulsada esta tecla.
+Ctrl izquierdo + WASD/RB + Stick Izquierdo --> inclinación del personaje. Se desactivará el modo caminar del personaje mientras se mantenga la tecla CTRL pulsada.
+Movimiento de ratón/Stick Derecho --> controla la rotación de la cámara del personaje.
+
+Ctrl derecho + L --> reinicia la escena

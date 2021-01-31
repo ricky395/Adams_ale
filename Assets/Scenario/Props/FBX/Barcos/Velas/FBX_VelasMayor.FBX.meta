@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 56a6e96d8efeff942a492cde99a0adbe
+timeCreated: 1509811870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Line016
+    100002: Line017
+    100004: Line018
+    100006: Line019
+    100008: Line020
+    100010: Line021
+    100012: Line022
+    100014: Line023
+    100016: Rectangle001
+    100018: Torus039
+    100020: Torus040
+    100022: Torus041
+    100024: Torus042
+    100026: Torus043
+    100028: Torus044
+    100030: Torus045
+    100032: Torus046
+    100034: Torus047
+    100036: Torus048
+    100038: Torus049
+    100040: Torus050
+    100042: Torus051
+    100044: Torus052
+    100046: Torus053
+    100048: Torus054
+    100050: Torus055
+    100052: Torus056
+    100054: Torus057
+    100056: Torus058
+    100058: Torus059
+    100060: Torus060
+    100062: Torus061
+    100064: //RootNode
+    400000: Line016
+    400002: Line017
+    400004: Line018
+    400006: Line019
+    400008: Line020
+    400010: Line021
+    400012: Line022
+    400014: Line023
+    400016: Rectangle001
+    400018: Torus039
+    400020: Torus040
+    400022: Torus041
+    400024: Torus042
+    400026: Torus043
+    400028: Torus044
+    400030: Torus045
+    400032: Torus046
+    400034: Torus047
+    400036: Torus048
+    400038: Torus049
+    400040: Torus050
+    400042: Torus051
+    400044: Torus052
+    400046: Torus053
+    400048: Torus054
+    400050: Torus055
+    400052: Torus056
+    400054: Torus057
+    400056: Torus058
+    400058: Torus059
+    400060: Torus060
+    400062: Torus061
+    400064: //RootNode
+    2300000: Line016
+    2300002: Line017
+    2300004: Line018
+    2300006: Line019
+    2300008: Line020
+    2300010: Line021
+    2300012: Line022
+    2300014: Line023
+    2300016: Rectangle001
+    2300018: Torus039
+    2300020: Torus040
+    2300022: Torus041
+    2300024: Torus042
+    2300026: Torus043
+    2300028: Torus044
+    2300030: Torus045
+    2300032: Torus046
+    2300034: Torus047
+    2300036: Torus048
+    2300038: Torus049
+    2300040: Torus050
+    2300042: Torus051
+    2300044: Torus052
+    2300046: Torus053
+    2300048: Torus054
+    2300050: Torus055
+    2300052: Torus056
+    2300054: Torus057
+    2300056: Torus058
+    2300058: Torus059
+    2300060: Torus060
+    2300062: Torus061
+    3300000: Line016
+    3300002: Line017
+    3300004: Line018
+    3300006: Line019
+    3300008: Line020
+    3300010: Line021
+    3300012: Line022
+    3300014: Line023
+    3300016: Rectangle001
+    3300018: Torus039
+    3300020: Torus040
+    3300022: Torus041
+    3300024: Torus042
+    3300026: Torus043
+    3300028: Torus044
+    3300030: Torus045
+    3300032: Torus046
+    3300034: Torus047
+    3300036: Torus048
+    3300038: Torus049
+    3300040: Torus050
+    3300042: Torus051
+    3300044: Torus052
+    3300046: Torus053
+    3300048: Torus054
+    3300050: Torus055
+    3300052: Torus056
+    3300054: Torus057
+    3300056: Torus058
+    3300058: Torus059
+    3300060: Torus060
+    3300062: Torus061
+    4300000: Line022
+    4300002: Line017
+    4300004: Line018
+    4300006: Line019
+    4300008: Line020
+    4300010: Line021
+    4300012: Line016
+    4300014: Line023
+    4300016: Torus040
+    4300018: Torus041
+    4300020: Torus042
+    4300022: Torus039
+    4300024: Torus043
+    4300026: Rectangle001
+    4300028: Torus044
+    4300030: Torus045
+    4300032: Torus046
+    4300034: Torus047
+    4300036: Torus048
+    4300038: Torus049
+    4300040: Torus050
+    4300042: Torus051
+    4300044: Torus052
+    4300046: Torus053
+    4300048: Torus054
+    4300050: Torus055
+    4300052: Torus056
+    4300054: Torus057
+    4300056: Torus058
+    4300058: Torus059
+    4300060: Torus060
+    4300062: Torus061
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

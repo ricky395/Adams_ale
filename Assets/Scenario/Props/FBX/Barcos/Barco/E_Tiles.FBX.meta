@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 1fc22c93a797db3489d54760763b14fb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: E_Columna
+    100002: E_Cruz
+    100004: E_Detalle
+    100006: E_Esquina
+    100008: E_Horizontal
+    100010: E_L
+    100012: E_Pared
+    100014: E_Suelo
+    100016: //RootNode
+    100018: E_Vertical
+    400000: E_Columna
+    400002: E_Cruz
+    400004: E_Detalle
+    400006: E_Esquina
+    400008: E_Horizontal
+    400010: E_L
+    400012: E_Pared
+    400014: E_Suelo
+    400016: //RootNode
+    400018: E_Vertical
+    2300000: E_Columna
+    2300002: E_Cruz
+    2300004: E_Detalle
+    2300006: E_Esquina
+    2300008: E_Horizontal
+    2300010: E_L
+    2300012: E_Pared
+    2300014: E_Suelo
+    2300016: E_Vertical
+    3300000: E_Columna
+    3300002: E_Cruz
+    3300004: E_Detalle
+    3300006: E_Esquina
+    3300008: E_Horizontal
+    3300010: E_L
+    3300012: E_Pared
+    3300014: E_Suelo
+    3300016: E_Vertical
+    4300000: E_Horizontal
+    4300002: E_L
+    4300004: E_Vertical
+    4300006: E_Cruz
+    4300008: E_Suelo
+    4300010: E_Pared
+    4300012: E_Detalle
+    4300014: E_Esquina
+    4300016: E_Columna
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AltosYBajos
+    second: {fileID: 2100000, guid: dfa1cadb02588ff4e86518a344fc01e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColumnaYEsquinas
+    second: {fileID: 2100000, guid: 9fdbfa2d2d8b4e848b005b26241063d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DetallesMetalicos
+    second: {fileID: 2100000, guid: ff6b2028912882248b189c005f786dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estructuras+PolysDeSeguridad
+    second: {fileID: 2100000, guid: 1ca4e06e412d2e4408e693aa0bb61150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared
+    second: {fileID: 2100000, guid: 4bd4ecbf652c4bc4cb48a9ce7b2c95e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suelo
+    second: {fileID: 2100000, guid: 0d38c295e617f68438967be28375cfdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TabiquesAltos y Tabique L
+    second: {fileID: 2100000, guid: c9367fc73cf35de4c877cf2f054b4f47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TabiquesBajos
+    second: {fileID: 2100000, guid: 4606857ce42a2e648b60097b2ecd020b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: a7bdd8507d0436a41b8bfda68f4a3b57, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

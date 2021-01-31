@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: f9765fa84a8a3944c80faec42f6224a1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ajo_low205
+    100002: Ajo_low206
+    100004: Ajo_low207
+    100006: Ajo_low208
+    100008: Ajo_low209
+    100010: Ajo_low210
+    100012: Ajo_low212
+    100014: Ajo_low213
+    100016: Ajo_low214
+    100018: Ajo_low215
+    100020: Ajo_low216
+    100022: Ajo_low217
+    100024: Ajo_low218
+    100026: Ajo_low219
+    100028: Ajo_low220
+    100030: Ajo_low221
+    100032: Ajo_low222
+    100034: Ajo_low223
+    100036: Ajo_low224
+    100038: Ajo_low225
+    100040: Ajo_low226
+    100042: Ajo_low227
+    100044: Ajo_low228
+    100046: Ajo_low229
+    100048: Ajo_low230
+    100050: //RootNode
+    100052: EX_CuerpoBase_low001
+    400000: Ajo_low205
+    400002: Ajo_low206
+    400004: Ajo_low207
+    400006: Ajo_low208
+    400008: Ajo_low209
+    400010: Ajo_low210
+    400012: Ajo_low212
+    400014: Ajo_low213
+    400016: Ajo_low214
+    400018: Ajo_low215
+    400020: Ajo_low216
+    400022: Ajo_low217
+    400024: Ajo_low218
+    400026: Ajo_low219
+    400028: Ajo_low220
+    400030: Ajo_low221
+    400032: Ajo_low222
+    400034: Ajo_low223
+    400036: Ajo_low224
+    400038: Ajo_low225
+    400040: Ajo_low226
+    400042: Ajo_low227
+    400044: Ajo_low228
+    400046: Ajo_low229
+    400048: Ajo_low230
+    400050: //RootNode
+    400052: EX_CuerpoBase_low001
+    2100000: CapaObjetosDetalles
+    2100002: Ajo
+    2300000: Ajo_low205
+    2300002: Ajo_low206
+    2300004: Ajo_low207
+    2300006: Ajo_low208
+    2300008: Ajo_low209
+    2300010: Ajo_low210
+    2300012: Ajo_low212
+    2300014: Ajo_low213
+    2300016: Ajo_low214
+    2300018: Ajo_low215
+    2300020: Ajo_low216
+    2300022: Ajo_low217
+    2300024: Ajo_low218
+    2300026: Ajo_low219
+    2300028: Ajo_low220
+    2300030: Ajo_low221
+    2300032: Ajo_low222
+    2300034: Ajo_low223
+    2300036: Ajo_low224
+    2300038: Ajo_low225
+    2300040: Ajo_low226
+    2300042: Ajo_low227
+    2300044: Ajo_low228
+    2300046: Ajo_low229
+    2300048: Ajo_low230
+    2300050: EX_CuerpoBase_low001
+    3300000: Ajo_low205
+    3300002: Ajo_low206
+    3300004: Ajo_low207
+    3300006: Ajo_low208
+    3300008: Ajo_low209
+    3300010: Ajo_low210
+    3300012: Ajo_low212
+    3300014: Ajo_low213
+    3300016: Ajo_low214
+    3300018: Ajo_low215
+    3300020: Ajo_low216
+    3300022: Ajo_low217
+    3300024: Ajo_low218
+    3300026: Ajo_low219
+    3300028: Ajo_low220
+    3300030: Ajo_low221
+    3300032: Ajo_low222
+    3300034: Ajo_low223
+    3300036: Ajo_low224
+    3300038: Ajo_low225
+    3300040: Ajo_low226
+    3300042: Ajo_low227
+    3300044: Ajo_low228
+    3300046: Ajo_low229
+    3300048: Ajo_low230
+    3300050: EX_CuerpoBase_low001
+    4300000: EX_CuerpoBase_low001
+    4300002: Ajo_low228
+    4300004: Ajo_low227
+    4300006: Ajo_low207
+    4300008: Ajo_low208
+    4300010: Ajo_low209
+    4300012: Ajo_low210
+    4300014: Ajo_low212
+    4300016: Ajo_low213
+    4300018: Ajo_low225
+    4300020: Ajo_low215
+    4300022: Ajo_low216
+    4300024: Ajo_low217
+    4300026: Ajo_low218
+    4300028: Ajo_low219
+    4300030: Ajo_low224
+    4300032: Ajo_low230
+    4300034: Ajo_low222
+    4300036: Ajo_low223
+    4300038: Ajo_low220
+    4300040: Ajo_low214
+    4300042: Ajo_low226
+    4300044: Ajo_low206
+    4300046: Ajo_low205
+    4300048: Ajo_low229
+    4300050: Ajo_low221
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
