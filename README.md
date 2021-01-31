@@ -8,8 +8,18 @@ Controles PC/Mando consola:
 WASD/Stick Izquierdo --> movimiento del personaje.
 E/A --> interactuar con un objeto.
 C/X --> agacharse.
-Shift izquierdo/B --> el personaje correr· mientras se mantenga pulsada esta tecla.
-Ctrl izquierdo + WASD/RB + Stick Izquierdo --> inclinaciÛn del personaje. Se desactivar· el modo caminar del personaje mientras se mantenga la tecla CTRL pulsada.
-Movimiento de ratÛn/Stick Derecho --> controla la rotaciÛn de la c·mara del personaje.
+Shift izquierdo/B --> el personaje correr√° mientras se mantenga pulsada esta tecla.
+Ctrl izquierdo + WASD/RB + Stick Izquierdo --> inclinaci√≥n del personaje. Se desactivar√° el modo caminar del personaje mientras se mantenga la tecla CTRL pulsada.
+Movimiento de rat√≥n/Stick Derecho --> controla la rotaci√≥n de la c√°mara del personaje.
 
 Ctrl derecho + L --> reinicia la escena
+
+Este proyecto se realiz√≥ gracias a la ayuda de:
+- Alejandro Garc√≠a
+- Guillermo S√°nchez
+- Rodrigo Serrano
+- Samuel Casta√±o
+- Mateo G√≥mez
+- Eduardo Salido
+- Carlos Pardo
+- Alejandro Moralo
