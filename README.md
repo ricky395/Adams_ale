@@ -5,7 +5,7 @@ Proyecto realizado a principios de 2018
 
 Controles PC/Mando consola:
 
-WASD/Stick Izquierdo --> movimiento del personaje.\n
+WASD/Stick Izquierdo --> movimiento del personaje.
 E/A --> interactuar con un objeto.
 C/X --> agacharse.
 Shift izquierdo/B --> correr (mantener pulsado).
